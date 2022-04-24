@@ -8,4 +8,13 @@ and Gaussian processes are implemented in Python using GridsearchCV, and their c
 Variable importance, PCA, nested cross-validation and other essential ideas are also dealt with in the context of
 the data. 
 
-![](https://github.com/spmullins99/SMullins_Portfolio/blob/main/images/tt1.jpg)
+![](/images/tt1.jpg)
+
+
+# [Computer Vision for Autonomous Vehicles (Undergraduate Thesis)](https://github.com/spmullins99/Computer-Vision-with-SSD-MobileNet)
+A functional object detection device was built using the Single-Shot Detector (SSD) + MobileNetV3
+models and the Raspberry Pi 4. The device successfully detects and discriminates between pedestrians 
+and cyclists from within a moving vehicle. The Python libraries Tensorflow and OpenCV were 
+used to implement the preceding functionality.
+
+![](/images/CV1.jpg)
