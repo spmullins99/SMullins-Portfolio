@@ -14,16 +14,9 @@ the data.
 
 # [Big Data Analysis](https://github.com/spmullins99/Statistical-Methods-for-Big-Data)
 
-The Journal of Law and Economics published an article estimating the annual cost of crime in
-the United States to be $4.71-$5.76 trillion dollars. The aim of this report is to use integrity-driven data analysis to obtain truthful, reliable and interpretable
-results about the factors that affect crime rate in US communities. Linear Regression,
-Lasso Regression, Random Forests and a K-Nearest Neighbour classifier are applied to the ’Communities
-and Crime Data Set’ created by UCI’s Machine Learning Repository. It was found that
-given the appropriate model certain community factors, such as the population proportion of certain
-races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
-higher crime rates.
+Statistical analysis on modified version of VAST 2016 Mini-Challenge 2 dataset using both Hadoop and Spark. Big Data technology facilitated the efficient use of regression and classification algorithms through Apache Spark's machine learning library Mllib. Additionally performed rudimentary exploratory analysis using Map Reduce. The effect of non-probabilistic sampling methods in the context of Big Data was reviewed and applied to real data.
 
-*Keywords: Hadoop, Spark, Scala, Support Vector Machine (SVM), Linear Regression*
+*Keywords: Hadoop, Spark, Scala, Map Reduce, Support Vector Machine (SVM), Linear Regression*
 
 # [Analysis of Crime Rates in US Communities](https://github.com/spmullins99/Analysis-of-Crime-Rates-in-US-Communities)
 
