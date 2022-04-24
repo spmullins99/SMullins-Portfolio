@@ -3,12 +3,12 @@
 # [Clustering and Regression Machine Learning Algorithms](https://github.com/spmullins99/ML-Algorithms)
 This report exemplifies procedures relating to both supervised and unsupervised learning techniques
 on both real and simulated datasets. Hyperparameter tuning to achieve improved prediction and clustering
-performance is the main focus. Hierarchical clustering, k-means, kernel k-means, Lasso regression, random forests 
+performance is the main focus. Hierarchical clustering, K-means, kernel K-means, Lasso regression, Random Forests 
 and Gaussian processes are implemented in Python using GridsearchCV, and their characteristics discussed, in an 18 page report. 
 Variable importance, PCA, nested cross-validation and other essential ideas are also dealt with in the context of
 the data. 
 
-<img src="/images/tt1.jpg" width="600">
+<img src="/images/hd1.pdf" width="600">
 
 *Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
 
@@ -22,10 +22,10 @@ Statistical analysis on modified version of VAST 2016 Mini-Challenge 2 dataset u
 
 The Journal of Law and Economics published an article estimating the annual cost of crime in
 the United States to be $4.71-$5.76 trillion dollars. The aim of this report is to use integrity-driven data analysis to obtain truthful, reliable and interpretable
-results about the factors that affect crime rate in US communities. Linear Regression,
-Lasso Regression, Random Forests and a K-Nearest Neighbour classifier are applied to the ’Communities
+results about the factors that affect crime rate in US communities. Linear regression,
+Lasso regression, Random Forests and a K-Nearest Neighbour classifier are applied to the ’Communities
 and Crime Data Set’ created by UCI’s Machine Learning Repository. It was found that
-given the appropriate model certain community factors, such as the population proportion of certain
+given the appropriate model, certain community factors, such as the population proportion of certain
 races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
 higher crime rates.
 
