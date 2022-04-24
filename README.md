@@ -10,7 +10,9 @@ the data.
 
 ![](/images/tt1.jpg)
 
-# [Analysis of Crime Rates in US Communities]
+*Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
+
+# [Big Data Analysis](https://github.com/spmullins99/Statistical-Methods-for-Big-Data)
 
 The Journal of Law and Economics published an article estimating the annual cost of crime in
 the United States to be $4.71-$5.76 trillion dollars. The aim of this report is to use integrity-driven data analysis to obtain truthful, reliable and interpretable
@@ -21,10 +23,22 @@ given the appropriate model certain community factors, such as the population pr
 races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
 higher crime rates.
 
-![](/images/tt1.jpg)
+*Keywords: Hadoop, Spark, Scala, Support Vector Machine (SVM), Linear Regression*
 
-*Regression + Classification Models, Python*
+# [Analysis of Crime Rates in US Communities](https://github.com/spmullins99/Analysis-of-Crime-Rates-in-US-Communities)
 
+The Journal of Law and Economics published an article estimating the annual cost of crime in
+the United States to be $4.71-$5.76 trillion dollars. The aim of this report is to use integrity-driven data analysis to obtain truthful, reliable and interpretable
+results about the factors that affect crime rate in US communities. Linear Regression,
+Lasso Regression, Random Forests and a K-Nearest Neighbour classifier are applied to the ’Communities
+and Crime Data Set’ created by UCI’s Machine Learning Repository. It was found that
+given the appropriate model certain community factors, such as the population proportion of certain
+races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
+higher crime rates.
+
+![](/images/eda2.pdf)
+
+*Keywords: Regression + Classification models, Python, Multiverse analysis*
 
 
 # [Computer Vision for Autonomous Vehicles (Undergraduate Thesis)](https://github.com/spmullins99/Computer-Vision-with-SSD-MobileNet)
@@ -34,6 +48,9 @@ and cyclists from within a moving vehicle. The Python libraries Tensorflow and O
 used to implement the preceding functionality.
 
 ![](/images/CV1.jpg)
+
+*Keywords: TensorFlow, OpenCV, Object Detection*
+
 
 # [Data Analysis Performed on Seattle Collisions Data](https://github.com/spmullins99/Seattle-Collisions)
 Each year, approximately 1.35 million people are killed on roadways around the world. Road traffic accidents are the leading cause of death for people between the ages of 5-29 years worldwide. It is clear that our transportation systems and attitude towards driving are important areas to focus on. Over the past 16+ years, the Seattle Department of Transportation (SDOT) has been gathering data on collisions in the city. The purpose of this report is to unveil some interesting truths about the nature of collisions in Seattle. Some interesting questions we look to answer are:
