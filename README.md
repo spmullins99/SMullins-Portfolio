@@ -8,7 +8,7 @@ and Gaussian processes are implemented in Python using GridsearchCV, and their c
 Variable importance, PCA, nested cross-validation and other essential ideas are also dealt with in the context of
 the data. 
 
-<img src="/images/tt1.jpg" width="500">
+<img src="/images/tt1.jpg" width="600">
 
 *Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
 
@@ -29,7 +29,7 @@ given the appropriate model certain community factors, such as the population pr
 races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
 higher crime rates.
 
-![](/images/eda2.png width="50")
+<img src="/images/eda2.png " width="600">
 
 *Keywords: Regression + Classification models, Python, Multiverse analysis*
 
@@ -40,7 +40,7 @@ models and the Raspberry Pi 4. The device successfully detects and discriminates
 and cyclists from within a moving vehicle. The Python libraries Tensorflow and OpenCV were 
 used to implement the preceding functionality.
 
-![](/images/CV1.jpg width=50)
+<img src="/images/CV1.jpg" width="600">
 
 *Keywords: TensorFlow, OpenCV, Object Detection*
 
@@ -54,7 +54,7 @@ Each year, approximately 1.35 million people are killed on roadways around the w
 * What is the relationship between road conditions and the severity of collisions?
 * How accurately can we predict the severity of a collision given certain pieces of information?
 
-![](/images/Seattle1.png)
+<img src="/images/Seattle1.png" width="600">
 
 
 
