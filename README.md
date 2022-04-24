@@ -1,6 +1,6 @@
 # SMullins_Portfolio
 
-# Clustering and Regression Machine Learning Algorithms [ML-Algorithms](https://github.com/spmullins99/ML-Algorithms)
+# [Clustering and Regression Machine Learning Algorithms](https://github.com/spmullins99/ML-Algorithms)
 This report exemplifies procedures relating to both supervised and unsupervised learning techniques
 on both real and simulated datasets. Hyperparameter tuning to achieve improved prediction and clustering
 performance is the main focus. Hierarchical clustering, k-means, kernel k-means, Lasso regression, random forests 
