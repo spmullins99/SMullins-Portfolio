@@ -8,7 +8,7 @@ and Gaussian processes are implemented in Python using GridsearchCV, and their c
 Variable importance, PCA, nested cross-validation and other essential ideas are also dealt with in the context of
 the data. 
 
-<img src="/images/hcd1-1.png" width="900">
+<img src="/images/hcd1-1.png" width="1100">
 
 *Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
 
