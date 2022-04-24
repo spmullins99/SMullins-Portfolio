@@ -31,12 +31,12 @@ higher crime rates.
 
 <img src="/images/eda2.png " width="600">
 
-*Keywords: Regression + Classification models, Python, Multiverse analysis*
+*Keywords: Regression, Classification, Python, Multiverse analysis*
 
 
 # [Computer Vision for Autonomous Vehicles (Undergraduate Thesis)](https://github.com/spmullins99/Computer-Vision-with-SSD-MobileNet)
 A functional object detection device was built using the Single-Shot Detector (SSD) + MobileNetV3
-models and the Raspberry Pi 4. The device successfully detects and discriminates between pedestrians 
+algorithms and the Raspberry Pi 4. The device successfully detects and discriminates between pedestrians 
 and cyclists from within a moving vehicle. The Python libraries Tensorflow and OpenCV were 
 used to implement the preceding functionality.
 
@@ -55,6 +55,8 @@ Each year, approximately 1.35 million people are killed on roadways around the w
 * How accurately can we predict the severity of a collision given certain pieces of information?
 
 <img src="/images/Seattle1.png" width="600">
+
+*Keywords: Pandas, Matplotlib, sklearn*
 
 
 
