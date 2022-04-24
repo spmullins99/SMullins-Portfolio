@@ -29,7 +29,7 @@ given the appropriate model, certain community factors, such as the population p
 races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
 higher crime rates.
 
-<img src="/images/eda2.png " width="600">
+![](/images/eda2.png)
 
 *Keywords: Regression, Classification, Python, Multiverse analysis*
 
@@ -40,7 +40,7 @@ algorithms and the Raspberry Pi 4. The device successfully detects and discrimin
 and cyclists from within a moving vehicle. The Python libraries Tensorflow and OpenCV were 
 used to implement the preceding functionality.
 
-<img src="/images/CV1.jpg" width="600">
+![](/images/CV1.jpg)
 
 *Keywords: TensorFlow, OpenCV, Object Detection*
 
@@ -54,7 +54,7 @@ Each year, approximately 1.35 million people are killed on roadways around the w
 * What is the relationship between road conditions and the severity of collisions?
 * How accurately can we predict the severity of a collision given certain pieces of information?
 
-<img src="https://github.com/spmullins99/SMullins-Portfolio/blob/main/images/Seattle1.png" width="600">
+![](https://github.com/spmullins99/SMullins-Portfolio/blob/main/images/Seattle1.png)
 
 *Keywords: Pandas, Matplotlib, sklearn*
 
