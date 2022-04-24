@@ -36,7 +36,7 @@ given the appropriate model certain community factors, such as the population pr
 races and median income levels, were reasonably accurate predictors of violent crime. Results varied significantly state by state, however, Southern states were typically associated with
 higher crime rates.
 
-![](/images/eda2.pdf)
+![](/images/eda2.png)
 
 *Keywords: Regression + Classification models, Python, Multiverse analysis*
 
