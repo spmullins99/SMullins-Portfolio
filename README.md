@@ -54,7 +54,7 @@ Each year, approximately 1.35 million people are killed on roadways around the w
 * What is the relationship between road conditions and the severity of collisions?
 * How accurately can we predict the severity of a collision given certain pieces of information?
 
-![](https://github.com/spmullins99/SMullins-Portfolio/blob/main/images/Seattle1.png)
+![](/images/Seattle1.png)
 
 *Keywords: Pandas, Matplotlib, sklearn*
 
