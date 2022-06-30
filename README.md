@@ -12,6 +12,13 @@ the data.
 
 *Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
 
+# Data Poisoning Research Project
+Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes as successful Machine Learning attack through comprehensive simulation.
+
+![](/images/Data poisoning Poster.pdf)
+
+*Keywords: Data Poisoning, Poster Presentation*
+
 # [Big Data Analysis](https://github.com/spmullins99/Statistical-Methods-for-Big-Data)
 
 Statistical analysis on modified version of VAST 2016 Mini-Challenge 2 dataset using both Hadoop and Spark. Big Data technology facilitated the efficient use of regression and classification algorithms through Apache Spark's machine learning library Mllib. Additionally performed rudimentary exploratory analysis using Map Reduce. The effect of non-probabilistic sampling methods in the context of Big Data was reviewed and applied to real data.
