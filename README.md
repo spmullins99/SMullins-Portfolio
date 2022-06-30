@@ -15,7 +15,7 @@ the data.
 # Data Poisoning Research Project
 Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes as successful Machine Learning attack through comprehensive simulation.
 
-![](/images/Data Poisoning Poster.pdf)
+![](/images/DPPoster.pdf)
 
 *Keywords: Data Poisoning, Poster Presentation*
 
