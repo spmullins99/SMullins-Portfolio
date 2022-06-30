@@ -12,13 +12,6 @@ the data.
 
 *Keywords: K-Means/Hierarchical Clustering, Lasso Regression, Random Forests, Gaussian Processes, PCA, Python*
 
-# Data Poisoning Research Project
-Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes as successful Machine Learning attack through comprehensive simulation.
-
-![](/images/DPPoster.png)
-
-*Keywords: Data Poisoning, Poster Presentation*
-
 # [Big Data Analysis](https://github.com/spmullins99/Statistical-Methods-for-Big-Data)
 
 Statistical analysis on modified version of VAST 2016 Mini-Challenge 2 dataset using both Hadoop and Spark. Big Data technology facilitated the efficient use of regression and classification algorithms through Apache Spark's machine learning library Mllib. Additionally performed rudimentary exploratory analysis using Map Reduce. The effect of non-probabilistic sampling methods in the context of Big Data was reviewed and applied to real data.
@@ -51,6 +44,12 @@ used to implement the preceding functionality.
 
 *Keywords: TensorFlow, OpenCV, Object Detection*
 
+# Data Poisoning Research Project
+Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes as successful Machine Learning attack through comprehensive simulation.
+
+![](/images/DPPoster.png)
+
+*Keywords: Data Poisoning, Poster Presentation*
 
 # [Data Analysis Performed on Seattle Collisions Data](https://github.com/spmullins99/Seattle-Collisions)
 Each year, approximately 1.35 million people are killed on roadways around the world. Road traffic accidents are the leading cause of death for people between the ages of 5-29 years worldwide. It is clear that our transportation systems and attitude towards driving are important areas to focus on. Over the past 16+ years, the Seattle Department of Transportation (SDOT) has been gathering data on collisions in the city. The purpose of this report is to unveil some interesting truths about the nature of collisions in Seattle. Some interesting questions we look to answer are:
