@@ -45,7 +45,7 @@ used to implement the preceding functionality.
 *Keywords: TensorFlow, OpenCV, Object Detection*
 
 # Data Poisoning Research Project
-Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes as successful Machine Learning attack through comprehensive simulation.
+Awarded top poster presentation across whole Statistics Department at Imperial College London by both academic staff and students separately. Research falls into the bracket of adversarial machine learning. Aiming to understand what constitutes a successful Machine Learning attack through comprehensive simulation.
 
 ![](/images/DPPoster.png)
 
